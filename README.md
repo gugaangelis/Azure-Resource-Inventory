@@ -5,7 +5,7 @@ Cria um agente no Azure AI Foundry para realizar assessment no seu ambiente Azur
 
 # 📊 Azure Inventory com Azure AI Foundry
 
-Este projeto realiza o inventário de recursos no Azure utilizando integração com o Azure AI Foundry.
+Este projeto realiza o inventário de recursos no Azure utilizando integração com o Azure AI Foundry, gera recomendações e um relatório bem elaborado sobre todo o ambiente Azure.
 
 ---
 
